@@ -1,2 +1,3 @@
 # rest
-rest repo
+rest 
+rest repo for git commands demostration
